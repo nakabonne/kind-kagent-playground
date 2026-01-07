@@ -23,6 +23,12 @@ kubectl get nodes
 kagent install --profile demo
 ```
 
+## Show dashboard
+
+```
+kagent dashboard
+```
+
 ## Delete the cluster
 
 ```
